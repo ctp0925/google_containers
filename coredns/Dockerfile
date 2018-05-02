@@ -1,2 +1,2 @@
-FROM coredns/coredns:1.1.2
+FROM coredns/coredns:1.0.6
 MAINTAINER ctp0925@126.com
